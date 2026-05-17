@@ -10,12 +10,6 @@
 <img src="https://img.shields.io/badge/Edge%20AI-bc8cff?style=flat-square" />
 <img src="https://img.shields.io/badge/GPA-4.0%20%2F%204.0-success?style=flat-square" />
 
-<br/><br/>
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Youssef-Al-eng&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Al-eng&theme=github-dark-blue&hide_border=true" height="165" />
-
 </div>
 
 ---
@@ -91,6 +85,8 @@ Embedded AI for vehicle access via facial recognition + voice commands.
 
 <div align="center">
 <a href="mailto:Youssefalaa.1356@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/youssef-alaa-334581406/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/youssef-alaa-334581406/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://github.com/Youssef-Al-eng"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
