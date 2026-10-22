@@ -1,22 +1,5 @@
 <div align="center">
 
-<h1>Youssef Alaa Abdelrady</h1>
-<h3>Applied AI Engineer &nbsp;·&nbsp; Cairo, Egypt 🇪🇬</h3>
-
-<!-- Skill badges -->
-<img src="https://img.shields.io/badge/AI%20%26%20LLMs-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer%20Vision-2ea043?style=flat-square" />
-<img src="https://img.shields.io/badge/Embedded%20IoT-f0883e?style=flat-square&labelColor=2a1800&color=f0883e" />
-<img src="https://img.shields.io/badge/Edge%20AI-bc8cff?style=flat-square" />
-<img src="https://img.shields.io/badge/GPA-4.0%20%2F%204.0-success?style=flat-square" />
-
-</div>
-
----
-
-> *"Building intelligent systems — from edge devices to production LLM pipelines."*
-
-
 # Youssef Alaa Abdelrady
 
 **Applied AI Engineer** · Cairo, Egypt
